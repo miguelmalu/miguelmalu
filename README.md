@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Miguel</h1>
 <h3 align="center">A Network Engineer in Progress from Barcelona</h3>
 
-- 🔭 I’m currently working on [the BackOffice for our EA Project](https://github.com/miguelmalu/EA-BackOffice)
+- 🔭 I’m currently working on [the Frontend for our EA Project](https://github.com/JordiLlaveria/EA-Frontend)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **miguel.mateos@estudiantat.upc.edu**
+- 📫 You can reach me at **miguel.mateos@estudiantat.upc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
