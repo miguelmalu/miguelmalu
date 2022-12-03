@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Miguel</h1>
 <h3 align="center">A Network Engineer in Progress from Barcelona</h3>
 
-- 🔭 I’m currently working on [the Frontend for our EA Project](https://github.com/JordiLlaveria/EA-Frontend)
+- 🔭 I’m currently working on [our Cybersecurity Project](https://github.com/miguelmalu/SCCBD-CyberProject)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 You can reach me at **miguel.mateos@estudiantat.upc.edu**
 
