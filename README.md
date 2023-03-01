@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Miguel</h1>
-<h3 align="center">A Network Engineer in Progress from Barcelona</h3>
+<h3 align="center">A Network Engineer from Barcelona</h3>
 
 - 🔭 I’m currently working on [our Cybersecurity Project](https://github.com/miguelmalu/SCCBD-CyberProject)
 
